@@ -1,0 +1,19 @@
+{
+  "name": "Sobre Nós",
+  "path": "/sobre-nos",
+  "sections": [
+    {
+      "__resolveType": "Header - 01"
+    },
+    {
+      "__resolveType": "Banner Grid - 01"
+    },
+    {
+      "__resolveType": "FAQ - 01"
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}
